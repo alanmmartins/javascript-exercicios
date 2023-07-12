@@ -17,6 +17,7 @@ if (nota >= 7) {
 }
 else if (nota>=5 && nota<=7) {
     console.log ("Recuperacao")
+    
 }else{
     console.log ("Reprovado")
 }

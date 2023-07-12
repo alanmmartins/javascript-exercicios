@@ -13,10 +13,10 @@ let salario = parseFloat(prompt('Digite o salario  : '));
 
 
 if (salario < 1000) { 
-    let sal = (salario * 1.1)
+    let sal = (nome+" seu salario com acrescimo e "+ salario * 1.1)
     console.log(sal);
 }else {
-    console.log(salario);
+    console.log(nome+" seu salario ja e de nao tera aumento "+salario);
 }
 
 /* 
