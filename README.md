@@ -3,7 +3,7 @@
 ## instalar node
 
 
-<img width='20' height='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
           
 [Node.js](https://nodejs.org/en).
 ## 📌 Versão
