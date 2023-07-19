@@ -12,8 +12,9 @@ console.log("Sequência de Fibonacci até " + n + ": " + fibonacci);  */
 console.log(fibonacci,((1),(2),(3),(4),(5),(6),(7),(8),(9),(10))); */
 let anterior = 0;
 let atual = 1;
-
-for (let i = 1; i <= 10; i++) {
+console.log(anterior);
+console.log(atual);
+for (let i = 0; i <= 8; i++) {
   console.log(atual);
 
   let proximo = anterior + atual;
@@ -22,6 +23,6 @@ for (let i = 1; i <= 10; i++) {
 
   atual = proximo;
 
-  anterior = atual;
+  /* anterior = atual; */
 
 }

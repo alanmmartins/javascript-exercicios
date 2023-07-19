@@ -1,6 +1,6 @@
 let prompt = require('prompt-sync')()
 
-let numero;
+let numero = parseInt(prompt("digite um numero : "))
 
 do {
     numero = prompt("digite um numero : ")

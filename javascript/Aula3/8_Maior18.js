@@ -6,10 +6,11 @@ maior que 18. */
 let prompt = require('prompt-sync')()
 let idade = parseInt(prompt("Digite sua idade:"));
 
+
+
 while (idade < 18) {
-  
-  console.log("vc e menor d idade !!!!!!! " + idade)
   idade = parseInt(prompt("Digite novamente sua idade:"));
 }
 
 console.log("Você é maior de idade!");
+
