@@ -10,6 +10,8 @@ console.log("Sequência de Fibonacci até " + n + ": " + fibonacci);  */
 
 /* let fibonacci = (n) => (n <= 2 ? 1 : fibonacci(n - 1) + fibonacci(n - 2));
 console.log(fibonacci,((1),(2),(3),(4),(5),(6),(7),(8),(9),(10))); */
+export function Fibo() {
+
 let anterior = 0;
 let atual = 1;
 console.log(anterior);
@@ -25,4 +27,4 @@ for (let i = 0; i <= 8; i++) {
 
   /* anterior = atual; */
 
-}
+}}

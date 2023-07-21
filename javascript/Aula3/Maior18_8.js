@@ -3,7 +3,12 @@ resposta do usuário for menor que 18 anos continue a solicitar a
 idade e mostre uma mensagem quando a idade do usuário for
 maior que 18. */
 
-let prompt = require('prompt-sync')()
+import promptSync from "prompt-sync"
+
+const prompt = promptSync()
+
+export function MaiorIdadade() {
+  
 let idade = parseInt(prompt("Digite sua idade:"));
 
 
@@ -14,3 +19,4 @@ while (idade < 18) {
 
 console.log("Você é maior de idade!");
 
+}
