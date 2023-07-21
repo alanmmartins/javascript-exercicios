@@ -9,9 +9,9 @@ import { Tabuada } from "../Aula3/TabuadaFor_4.js";
 import { Fibo } from "../Aula3/Fibonacci_5.js";
 import { Pares0a20 } from "../Aula3/ParesWhile_6.js";
 import { SomarNumerosAte100 } from "../Aula3/Soma100While_7.js";
-import { MaiorIdadade } from "../Aula3/Maior18_8.js";
+/* import { MaiorIdadade } from "../Aula3/Maior18_8.js";
 import { RegressivaAteZero } from "../Aula3/RegressivaWhile_9.js";
-import { DiferenteDeZero } from "../Aula3/Diferente0While_10.js";
+import { DiferenteDeZero } from "../Aula3/Diferente0While_10.js"; */
 
 /* import {a500reais} from "..//Aula1/lista1/a500reais" */
 /* import { verificarMaiorIdade } from "../Aula2/Exercicios17_07/WHILEexe3.js"; */  //importando o arquivo
@@ -49,7 +49,7 @@ do {
             SomarNumerosAte100()
             break;
 
-        case 8:
+      /*   case 8:
             MaiorIdadade()
             break;
 
@@ -59,7 +59,7 @@ do {
 
         case 10:
             DiferenteDeZero()
-            break;
+            break; */
         
 
 
